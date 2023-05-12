@@ -1,0 +1,4 @@
+{
+    "data-root": "/container/docker",
+    "exec-opts": ["native.cgroupdriver=systemd"]
+}
