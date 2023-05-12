@@ -1,5 +1,7 @@
-# 📦 kubernetes-installer
+# 📦 kubernetes Simple installer
 docker runtime + containerd + kubernetes v1.26 + cilium
+
+<img width="709" alt="스크린샷 2023-05-12 오후 4 06 11" src="https://github.com/ghdcksgml1/kubernetes-installer/assets/79779676/254b2e82-ae49-4c28-9607-7a7322446f27">
 
 Installation became very difficult after Kubernetes stopped supporting Docker containers.  
 Install quickly and simply 😁
